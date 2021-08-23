@@ -15,3 +15,8 @@ Packages that we've dealt with:
 | gridExtra | Provides a number of user-level functions to work with 'grid' graphics.
 | ggrepel | Provides geoms for ggplot2 to repel overlapping text labels.
 | ggthemes | Some extra themes, geoms, and scales for ggplot2.
+| naniar | Provides many ways to summarise missing data.
+| simputation | Imputation of missing values.
+| ROSE | (Random Over Sampling Examples) Provides functions to deal with binary classification problems in the presence of imbalanced classes.
+| smotefamily | (Synthetic Minority Oversampling Technique) Provides functions to create new synthetic cases based on existing cases of the minority class.
+
