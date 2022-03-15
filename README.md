@@ -1,7 +1,7 @@
 # ACST4005
 
 ## Description
-I completed Actuarial Data Analytics (ACST4005) in Sem 2, 2021. We learnt techniques to analyse data using RStudio and had the opportunity to apply these techniques in our assignments (albeit using mock data). Throughout the first half of the course, using RStudio was not required. So instead, I used an R kernel (https://github.com/IRkernel/IRkernel) to run my R scripts on my already installed Jupyter Notebook. In the second half of the course, there was a stricter requirement for using R and R markdown.
+I completed Actuarial Data Analytics (ACST4005) in Sem 2, 2021. We learnt techniques to analyse data using RStudio and had the opportunity to apply these techniques in our assignments (albeit using mock data). Throughout the first half of the course, using RStudio was not required. So instead, I used an [R kernel](https://github.com/IRkernel/IRkernel) to run my R scripts on my already installed Jupyter Notebook. In the second half of the course, there was a stricter requirement for using R and R markdown.
 
 
 ## Packages
